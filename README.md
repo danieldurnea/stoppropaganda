@@ -1,1 +1,1 @@
-# stoppropaganda *Dos tool to disrup service*
+# stoppropaganda *Dos tool to disruption service*
